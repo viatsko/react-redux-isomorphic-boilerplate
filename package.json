@@ -26,7 +26,10 @@
     "eslint-config-airbnb": "^11.1.0",
     "eslint-plugin-import": "^1.15.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
-    "eslint-plugin-react": "^6.2.1"
+    "eslint-plugin-react": "^6.2.1",
+    "webpack-dev-middleware": "^1.7.0",
+    "webpack-dev-server": "^1.15.1",
+    "webpack-hot-middleware": "^2.12.2"
   },
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -38,7 +41,8 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.14.0",
     "react": "^15.3.1",
-    "react-hot-loader": "^3.0.0-beta.3"
+    "react-hot-loader": "^3.0.0-beta.3",
+    "webpack": "^2.1.0-beta.22"
   },
   "engines": {
     "node": "^6.2.1",
