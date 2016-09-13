@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-isomorphic-boilerplate",
+  "version": "1.0.0",
+  "description": "React & Redux Isomorphic Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viatsko/react-redux-isomorphic-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "boilerplate"
+  ],
+  "author": "Valerii Iatsko <dwr@codingbox.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viatsko/react-redux-isomorphic-boilerplate/issues"
+  },
+  "homepage": "https://github.com/viatsko/react-redux-isomorphic-boilerplate#readme"
+}
